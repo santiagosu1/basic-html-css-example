@@ -4,3 +4,5 @@ company/product/portfolio. This project showcases semantic HTML5, custom CSS, an
 
 Created by Santiago Suarez Jaramillo"
 
+This README file has been edited.
+
