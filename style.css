@@ -2,12 +2,16 @@
     box-sizing: border-box;
 }
 
+
 #header {
     
     padding: 1px;
     text-align: center;
     background-color: darkgray;
     text-transform: uppercase;
+    font-family: Arial, sans-serif;
+    
+
 }
 
 .textalignstyle {
@@ -25,7 +29,7 @@ div.textalignstyle {
     
 }
 
-li {
+li.pointscenter {
     
     display: block;
 }
@@ -37,6 +41,7 @@ li {
     height: 700px;
     margin: 25px;
     font-size: 0px;
+    font-family: Arial, sans-serif;
 }
 
 .content-area {
@@ -59,8 +64,8 @@ li {
     width: 300px; 
     height: 700px;
     vertical-align: top;
-    padding: 25px;
-    background-color: #4c4c4c;
+    padding: 20px;
+    background-color: #858282 ;
     border: 20px solid #333333;
     border-left: 0px;
     font-size: 16px;
@@ -72,7 +77,7 @@ li {
     margin-bottom: 20px;
     text-align: center;
     background-color: #d4d2d2;
-    border: solid #f2ef8f;
+    border: 5px solid #f2ef8f;
 
 
 }
@@ -84,6 +89,37 @@ section.leftsectionsizesstyle {
     width: 300px;
     height: 200px;
 
+}
+
+#webtoolkitheader {
+
+    padding: 10px;
+    background: #d4d2d2;
+    border: 5px solid #f2ef8f ;
+
+    
+    
+}
+
+div.rightsidebarsectionsizestyle {
+
+    height: 470px;
+    background: #d4d2d2;
+    border: 5px solid #f2ef8f ;
+    margin-top: 20px;
+    padding: 5px;
+
+}
+
+
+.divfooterstyle {
+
+    text-align: center;
+    padding: 10px;
+    background-color: lightgrey;
+    
+
+    
 }
 
 
