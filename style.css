@@ -46,7 +46,7 @@ li.pointscenter {
 
 .content-area {
 
-    padding: 20px;
+    padding: 25px;
     display: inline-block;
     width: 1196px;
     height: 700px;
@@ -83,6 +83,7 @@ li.pointscenter {
 }
 
 section.leftsectionsizesstyle {
+
 
     margin-left: 50px;
     display: inline-block;
